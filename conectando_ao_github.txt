@@ -1,0 +1,5 @@
+Para conectar um projeto ao github devemos commitar os arquivos de preferência, criar um repositório e então utilizar o comando
+git remote add origin [link do repositório criado]
+Após isso o projeto será linkado com o github e após as alterações e commits necessários podemos utilizar
+git push origin [nome da main branch]
+E então nosso projeto estará no nosso repositório na web 
