@@ -1,0 +1,2 @@
+O git é uma ferramenta para utilizar nos projetos que permite uma organização dos diferentes tipos de versões já feitas de um mesmo projeto.
+O github é como se fosse um git na web em que podemos upar nossos projetos para lá e visualiza-los de forma mais clara, além de ter uma interação com a comunidade.
