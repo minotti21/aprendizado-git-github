@@ -1,0 +1,7 @@
+git init 
+git status
+git add .
+git commit -m 'description'
+git branch
+git checkout -b [nome da nova branch]
+git merge [nome da main branch]
