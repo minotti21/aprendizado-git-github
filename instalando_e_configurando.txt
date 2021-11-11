@@ -1,0 +1,2 @@
+Devemos instalar o git em nosso computador e também utilizar um terminal, de preferência proveniente do linux Ubuntu
+Após isso já podemos utilizar o git em nossos projetos facilitando o trabalho de um programador
