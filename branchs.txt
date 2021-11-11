@@ -1,0 +1,3 @@
+As branchs são tipo partições, em que podemos trabalhar de forma simultânea em um mesmo projeto mas em áreas diferentes
+Como por exemplo um programador trabalhando na navbar e no footer de um site e o outro trabalhando na main section
+Podemos então juntar essas partições com o comando merge em uma só branch
