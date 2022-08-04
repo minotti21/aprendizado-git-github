@@ -1,1 +1,9 @@
-Projeto aprendendo git e github para me tornar um programador javascript full stack :)
+
+# Aprendendo Git
+
+Projeto de quando estava começando a programar e aprendendo a utilizar o Git :)
+
+
+## Stack utilizada
+
+Git
